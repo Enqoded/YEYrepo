@@ -1,2 +1,2 @@
--hello
--general Kenobi..
+print 'hello there'
+
